@@ -2,6 +2,11 @@
 
 A GIANTS Editor Lua script that generates i3d mappings from all scene nodes or the active selection, copies the XML to the clipboard, and updates an existing vehicle/placeable XML while preserving its surrounding formatting.
 
+## Notice / Hinweis
+
+The scripts in this repository were created in collaboration with AI. AI assistance was used for implementation, translation, and troubleshooting.
+
+Die Skripte in diesem Repository sind in Zusammenarbeit mit KI entstanden. KI kam bei Implementierung, Übersetzung und Fehlerbehebung zum Einsatz.
 ## Files
 
 - `I3DMappingExporter_DE.lua` — German interface.
