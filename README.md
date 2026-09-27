@@ -7,6 +7,12 @@ A GIANTS Editor Lua script that generates i3d mappings from all scene nodes or t
 The scripts in this repository were created in collaboration with AI. AI assistance was used for implementation, translation, and troubleshooting.
 
 Die Skripte in diesem Repository sind in Zusammenarbeit mit KI entstanden. KI kam bei Implementierung, Übersetzung und Fehlerbehebung zum Einsatz.
+
+
+## Preview / Vorschau
+
+![I3D Mapping Exporter running in GIANTS Editor (English UI)](screenshot.png)
+
 ## Files
 
 - `I3DMappingExporter_DE.lua` — German interface.
