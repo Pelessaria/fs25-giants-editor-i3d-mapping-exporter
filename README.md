@@ -1,4 +1,4 @@
-# I3D Mapping Exporter for GIANTS Editor 10.0.13
+# I3D Mapping Exporter for GIANTS Editor 10.0.X
 
 A GIANTS Editor Lua script that generates i3d mappings from all scene nodes or the active selection, copies the XML to the clipboard, and updates an existing vehicle/placeable XML while preserving its surrounding formatting.
 
@@ -11,7 +11,7 @@ A GIANTS Editor Lua script that generates i3d mappings from all scene nodes or t
 
 ## Installation
 
-Download the German or English ZIP from Releases and extract its files together into the GIANTS Editor `scripts` directory. The usual per-user location is `%LOCALAPPDATA%\GIANTS Editor 64bit 10.0.13\scripts`. Restart GIANTS Editor or reload its script list, then choose the matching I3D Mapping Exporter entry from the Scripts menu.
+Download the German or English ZIP from Releases and extract its files together into the GIANTS Editor `scripts` directory. The usual per-user location is `%LOCALAPPDATA%\GIANTS Editor 64bit 10.0.X\scripts`. Restart GIANTS Editor or reload its script list, then choose the matching I3D Mapping Exporter entry from the Scripts menu.
 
 The updater requires Windows PowerShell. It reads mapping elements from the clipboard and updates an existing XML file containing an `<i3dMappings>` section.
 
